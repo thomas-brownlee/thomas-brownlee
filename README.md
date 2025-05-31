@@ -18,8 +18,15 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
   <img src="https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=FC6D26&style=flat" height="28" alt="GitLab" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/Python-3.13-blue?logo=Python&logoColor=FC6D26&style=flat" height="28" alt="Python" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=ffd343&style=flat" height="28" alt="Python" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=flat" height="28" alt="Java" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white&style=flat" height="28" alt="Rust" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat" height="28" alt="HTML" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat" height="28" alt="JavaScript" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=flat" height="28" alt="CSS" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white&style=flat" height="28" alt="C++" style="margin-right: 4px">
 
+</div>
 
  **<h3 align="left">GitHub Stats</h3>**
 
