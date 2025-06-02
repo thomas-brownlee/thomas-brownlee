@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat" height="28" alt="JavaScript" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=flat" height="28" alt="CSS" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white&style=flat" height="28" alt="C++" style="margin-right: 4px">
-
 </div>
 
  **<h3 align="left">GitHub Stats</h3>**
